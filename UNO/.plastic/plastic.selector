@@ -1,0 +1,4 @@
+repository "UNO@julizordan@cloud"
+  path "/"
+    br "/main"
+    co "/main"

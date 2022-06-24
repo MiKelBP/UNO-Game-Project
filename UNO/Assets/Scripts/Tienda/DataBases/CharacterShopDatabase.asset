@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 346419afb7d2d6345bd2037be338e8e0, type: 3}
+  m_Name: CharacterShopDatabase
+  m_EditorClassIdentifier: 
+  characters:
+  - image: {fileID: -4256427906160430202, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Pomposo
+    price: 100
+    isPurchased: 0
+  - image: {fileID: -517894308114096243, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Gelatino
+    price: 250
+    isPurchased: 0
+  - image: {fileID: 7755224123621818408, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Bob
+    price: 400
+    isPurchased: 0
+  - image: {fileID: -1975635887328401948, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Nubito
+    price: 400
+    isPurchased: 0
+  - image: {fileID: 4306828662039877052, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Anuel
+    price: 450
+    isPurchased: 0
+  - image: {fileID: 1189779305756619486, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Cuernitos
+    price: 500
+    isPurchased: 0
+  - image: {fileID: 7729768860333772239, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Sustitos
+    price: 550
+    isPurchased: 0
+  - image: {fileID: -3102994270238535240, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Daddy Yankee
+    price: 550
+    isPurchased: 0
+  - image: {fileID: 8901077990765384427, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Iluminato
+    price: 600
+    isPurchased: 0
+  - image: {fileID: -3557554893070573299, guid: 9cef9b69d56908b4a87d8275e5253750, type: 3}
+    imageBackground: {fileID: 21300000, guid: e35b9ee2d7a4b3f43b2df1a9aa161ab5, type: 3}
+    name: Felizo
+    price: 650
+    isPurchased: 0

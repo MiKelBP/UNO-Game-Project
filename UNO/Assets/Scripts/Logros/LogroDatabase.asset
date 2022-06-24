@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69dd3a6559ce668438f05bbf56a72964, type: 3}
+  m_Name: LogroDatabase
+  m_EditorClassIdentifier: 
+  logros:
+  - logroName: 0
+    logroSprite: {fileID: 21300000, guid: 5614c769170484f42b63e1edaf662446, type: 3}
+    isPurchased: 0
+  - logroName: 1
+    logroSprite: {fileID: 21300000, guid: addc03e36c8e373488c392a3adaf4c39, type: 3}
+    isPurchased: 0
+  - logroName: 2
+    logroSprite: {fileID: 21300000, guid: efa974af5ebc82e48a5c75d299410ff2, type: 3}
+    isPurchased: 0
+  - logroName: 3
+    logroSprite: {fileID: 21300000, guid: adccce96d92aedf4eab19648cfee4880, type: 3}
+    isPurchased: 0
+  - logroName: 4
+    logroSprite: {fileID: 21300000, guid: 0021b03d33e25a2479b7f06bc6aaea27, type: 3}
+    isPurchased: 0
+  - logroName: 5
+    logroSprite: {fileID: 21300000, guid: f6670d16004e0374c9658e7a36d17687, type: 3}
+    isPurchased: 0
+  - logroName: 6
+    logroSprite: {fileID: 21300000, guid: 6f17b9b750e9dfb47b33ce5a299be1c6, type: 3}
+    isPurchased: 0
+  - logroName: 7
+    logroSprite: {fileID: 21300000, guid: a0965e8d773b8ae4f81400a0c6915b0f, type: 3}
+    isPurchased: 0
+  - logroName: 8
+    logroSprite: {fileID: 21300000, guid: d3ea54b8b8fd2b543ba342e31a7e57b1, type: 3}
+    isPurchased: 0
+  - logroName: 9
+    logroSprite: {fileID: 21300000, guid: 417031e1683caa145ac85db19c625d95, type: 3}
+    isPurchased: 0
